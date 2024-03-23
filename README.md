@@ -19,13 +19,20 @@ The project was about a simple website and I have used Nginx(docker conatiner) a
 
 RESULTS: 
 
-1. Code Quality Analysis by SonarQube server
-   <img width="960" alt="image" src="https://github.com/Santhoshkumar1007/SiteDeploymentProject/assets/91725362/9306e520-3bc6-4ecc-b0df-300d1f44c569">
+#1. Code Quality Analysis by SonarQube server
+      <img width="960" alt="image" src="https://github.com/Santhoshkumar1007/SiteDeploymentProject/assets/91725362/9306e520-3bc6-4ecc-b0df-300d1f44c569">
 
-2. Build Triggered by the Git push by webhooks machanism
-   <img width="960" alt="image" src="https://github.com/Santhoshkumar1007/SiteDeploymentProject/assets/91725362/2c113d11-4571-441e-8f98-f241bb0039d9">
 
-3. Final Website running on the remote docker-server container
-   <img width="960" alt="image" src="https://github.com/Santhoshkumar1007/SiteDeploymentProject/assets/91725362/f8bcb671-b334-4930-84ec-77a676f3e670">
+#2. Remote docker image build and container run part in Jenkins
+      <img width="960" alt="image" src="https://github.com/Santhoshkumar1007/SiteDeploymentProject/assets/91725362/da9bb14d-4b9d-479d-af54-2f84221f73b9">
+
+
+
+#3. Build Triggered by the Git push by webhooks machanism
+      <img width="960" alt="image" src="https://github.com/Santhoshkumar1007/SiteDeploymentProject/assets/91725362/2c113d11-4571-441e-8f98-f241bb0039d9">
+
+
+#4. Final Website running on the remote docker-server container
+      <img width="960" alt="image" src="https://github.com/Santhoshkumar1007/SiteDeploymentProject/assets/91725362/f8bcb671-b334-4930-84ec-77a676f3e670">
 
 
